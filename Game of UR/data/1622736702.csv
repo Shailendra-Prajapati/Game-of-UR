@@ -1,0 +1,6 @@
+player,pid,start,step,end,kill,completed,winner
+A,A0,-1,2,1,,,
+B,B5,-1,4,3,,,
+B,B2,-1,1,0,,,
+B,B5,3,1,4,,,
+A,A0,1,2,3,,,
